@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Demo Collection
+title: Eating Nagoya
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline:  some of the food I enjoyed while in Nagoya, Japan
+tagline:  Some of the food I enjoyed while in Nagoya, Japan
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "eating-nagoya is a collection of some of my favorite food experiences while living in japan"
@@ -34,7 +34,7 @@ author: Heather Fuller
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: eating-nagoya
+metadata: eating-nagoya2
 
 ##########
 # Site/Organization Branding 
